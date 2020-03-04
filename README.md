@@ -1,4 +1,4 @@
-# VASILAR_project
+## VASILAR_project
 
 Fabrication and automatization of an SILAR technique machine.
 The SILAR technique is used for semiconductor materials growth and deposition.
